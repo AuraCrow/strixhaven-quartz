@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: strixhaven.github.io/quartz
+  baseUrl: auracrow.github.io/strixhaven-quartz
   ignorePatterns:
     - private
     - templates
